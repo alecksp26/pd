@@ -5,6 +5,7 @@
 using namespace std;
 
 int extode(string num){
+	int a;
 	int nnum;
 	int t;
 	for(int i=0;i<num.length();i++){
